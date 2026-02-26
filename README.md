@@ -17,10 +17,10 @@ carol_sec).
 script.
 4. Create a script named testsweep.sh
 5. The script should:
-○ Accept a subnet as an argument (e.g., 192.168.15).
-○ Sweep from .1 to .254 using ping.
-○ Capture the response and extract IP addresses.
-○ Write results to a file named sweep_results.txt.
+- Accept a subnet as an argument (e.g., 192.168.15).
+- Sweep from .1 to .254 using ping.
+- Capture the response and extract IP addresses.
+- Write results to a file named sweep_results.txt.
 
 ---
 
